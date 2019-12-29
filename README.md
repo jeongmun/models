@@ -8,3 +8,11 @@
 
 XGBoost와 LBGM 비교 질문글
 - https://datascience.stackexchange.com/questions/26699/decision-trees-leaf-wise-best-first-and-level-wise-tree-traverse
+
+
+
+# CatBoost
+
+전반적인 설명 및 XGBoost와 LGBM과 비교
+- https://dailyheumsi.tistory.com/136
+- https://gentlej90.tistory.com/100
