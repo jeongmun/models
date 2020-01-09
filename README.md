@@ -16,3 +16,11 @@ XGBoost와 LBGM 비교 질문글
 전반적인 설명 및 XGBoost와 LGBM과 비교
 - https://dailyheumsi.tistory.com/136
 - https://gentlej90.tistory.com/100
+
+
+# Deep Learning
+ 하용호님 설명 블로그
+ - https://tykimos.github.io/Keras/2017/09/16/YonghoHa_Slide/
+ 
+ CNN모델 설명
+ - https://www.slideshare.net/yongho/ss-79607172
